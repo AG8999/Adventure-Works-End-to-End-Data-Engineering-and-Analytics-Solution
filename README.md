@@ -57,7 +57,7 @@ The pipeline was parameterized for:
 - Server Name and Database Name: Applied at the linked service, dataset, and pipeline levels to make it a generic and reusable solution.
 - Table Names and Schema: Dynamically retrieved and passed as inputs to ensure flexibility and scalability when working with multiple tables.
 
-![ADF Pipeline](Images/Generic Azure Data Factory Pipeline.png)
+![ADF Pipeline](Images/ADFPipeline.png)
 
 
 ## Data Transformation
@@ -68,4 +68,14 @@ The pipeline was parameterized for:
 
 - Developed interactive dashboards in Power BI Desktop, connecting to the Silver container in ADLS Gen2 using SAS tokens.
 - Delivered actionable insights via dynamic visualizations like KPIs, tables, and charts.
+### Main Page
+![ADF Pipeline](Images/Main_page.PNG)
+### Geographical Visuals
+![ADF Pipeline](Images/Geographical_Visuals.PNG)
+### Month-wise Visuals
+![ADF Pipeline](Images/Monthly_visuals.PNG)
+### Customer-wise Visuals
+![ADF Pipeline](Images/Customer_wise_Visuals.PNG)
+
+
 
