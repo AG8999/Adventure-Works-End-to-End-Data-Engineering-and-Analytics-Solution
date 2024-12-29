@@ -57,7 +57,7 @@ The pipeline was parameterized for:
 - Server Name and Database Name: Applied at the linked service, dataset, and pipeline levels to make it a generic and reusable solution.
 - Table Names and Schema: Dynamically retrieved and passed as inputs to ensure flexibility and scalability when working with multiple tables.
 
-![ADF Pipeline](Images/ADFPipeline.png)
+![ADF Pipeline](Images/ADFPipeline.PNG)
 
 
 ## Data Transformation
